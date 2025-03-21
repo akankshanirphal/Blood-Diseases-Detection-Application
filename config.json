@@ -1,0 +1,13 @@
+{
+	"params":
+	{
+		"local_server":"True",
+		"local_uri":"mysql://root:root123@localhost/bloodcell",
+		"prod_uri":"mysql://root:root123@localhost/bloodcell",
+		"fb_url":"https://facebook.com/bloodcell",
+		"tw_url":"https://twitter.com/bloodcell",
+		"git_url":"https://github.com/bloodcell",
+		"gmail_user":"akankshanirphal1a@gmail.com",
+		"gmail_password":"Akanksha@1804"
+	}
+}

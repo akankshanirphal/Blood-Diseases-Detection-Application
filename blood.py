@@ -208,7 +208,9 @@ def upload():
         print(f"Error during prediction: {e}")  # Debugging log
         return jsonify({"error": "Internal server error"}), 500
 
-
+@app.route('/services')
+def services():
+    return render_template('services.html')
 
 
 
